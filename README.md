@@ -1,5 +1,5 @@
 # Ming Qiu
-*A Cognitive Science student at UCSD | Machine Learning specialty*
+*A Cognitive Science student at UCSD | Machine Learning specialty | Interested in Data Science field*
 
 # Education
 * Bachelors of Science (Cognitive Science Machine Learning specialty), *University of California, San Diego*, 2020-2021
