@@ -11,7 +11,7 @@
 Photo by Ming Qiu
 
 This project Measuring the ***sentiment of tweets*** through a polarity scale and variables such as language, ngrams, tweet length, favorite and retweets, followers and statuses, and hashtag usage. 
-Personal Distribution: analyzed the common used hashtags and the common used words in the text of tweets, research on major vaccine announcement as well as the visualization of the sentiment of the tweets on these days.
+Personal Distribution: analyzed and visualized the common used hashtags and the common used words in the text of tweets, research on major vaccine announcement as well as the ***visualization of the sentiment*** of the tweets on these days.
 * **Python libraries used:** Python, Numpy, Pandas, Seaborn, WordCloud, matplotlib
 * **Input:** Tweets, hastags
 * **Output:** Sentiment
