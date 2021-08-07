@@ -1,4 +1,4 @@
-![GitHub Logo](IMG_6431.JPG)
+![alt text](IMG_6431.JPG)
 # Ming Qiu
 *A Cognitive Science student at UCSD | Machine Learning specialty | Interested in Data Science and Machine Learning field*
 
