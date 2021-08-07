@@ -16,7 +16,7 @@ Personal Distribution: analyzed the common used hashtags and the common used wor
 * **Input:** Tweets, hastags
 * **Output:** Sentiment
 
-# [Project 2: Data Analysis Project - Predicting Stroke Based on Patient Lifestyle and Health Information](http://youtube.com/dataprofessor)
+# [Project 2:Predicting Stroke Based on Patient Lifestyle and Health Information](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
