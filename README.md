@@ -6,7 +6,7 @@
 * Bachelors of Science (Cognitive Science), *Glendale Community College*, 2017-2020
 
 # [Project 1: Sentiment Analysis of COVID-19 on Twitter](https://github.com/MingQiu99/SentimentAnalysis-of-COVID19-on-Twitter/blob/main/FinalProject_SentimentAnalysis.ipynb)
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![alt text](transparent_background.png)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
