@@ -17,9 +17,10 @@ Personal Distribution: analyzed the common used hashtags and the common used wor
 * **Output:** Sentiment
 
 # [Project 2:Predicting Stroke Based on Patient Lifestyle and Health Information](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+![alt text](fakurian-design-58Z17lnVS4U-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Photo by <a href="https://unsplash.com/@fakurian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fakurian Design</a> on <a href="https://unsplash.com/s/photos/brain-anatomy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 This project makes use of ***backward stepwise feature selection*** and ***K Fold Cross Validation*** to determine the model that performs the best prediction on stroke.
 * **Python libraries used:** Python, Numpy, Pandas, sk-learn, matplotlib
