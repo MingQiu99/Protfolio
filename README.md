@@ -1,11 +1,11 @@
 # Ming Qiu
-*An Cognitive Science student at UCSD | Machine Learning specialty*
+*A Cognitive Science student at UCSD | Machine Learning specialty*
 
 # Education
-* Bachelors of Science (Cognitive Science), *University of California, San Diego*, 2020-2021
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelors of Science (Cognitive Science Machine Learning specialty), *University of California, San Diego*, 2020-2021
+* Bachelors of Science (Cognitive Science), *Glendale Community College*, 2017-2020
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Sentiment Analysis of COVID-19 on Twitter](https://github.com/MingQiu99/SentimentAnalysis-of-COVID19-on-Twitter/blob/main/FinalProject_SentimentAnalysis.ipynb)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
