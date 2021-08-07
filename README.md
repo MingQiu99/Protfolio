@@ -16,7 +16,7 @@ Personal Distribution: analyzed and visualized the common used hashtags and the 
 * **Input:** Tweets, hastags
 * **Output:** Sentiment
 
-# [Project 2:Predicting Stroke Based on Patient Lifestyle and Health Information](http://youtube.com/dataprofessor)
+# [Project 2:Predicting Stroke Based on Patient Lifestyle and Health Information](https://github.com/MingQiu99/Predicting-Stroke-Based-on-Patient-Lifestyle-and-Health-Information/blob/main/COGS109%20Final%20Project%20report.pdf)
 ![alt text](fakurian-design-58Z17lnVS4U-unsplash.jpg)
 
 Photo by Photo by <a href="https://unsplash.com/@fakurian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fakurian Design</a> on <a href="https://unsplash.com/s/photos/brain-anatomy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
