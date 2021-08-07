@@ -8,12 +8,12 @@
 # [Project 1: Sentiment Analysis of COVID-19 on Twitter](https://github.com/MingQiu99/SentimentAnalysis-of-COVID19-on-Twitter/blob/main/FinalProject_SentimentAnalysis.ipynb)
 ![alt text](transparent_background.png)
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+Photo by Ming Qiu
+This project Measuring the sentiment of tweets through a polarity scale and variables such as language, ngrams, tweet length, favorite and retweets, followers and statuses, and hashtag usage. 
+Personal Distribution: analyzed the common used hashtags and the common used words in the text of tweets, research on major vaccine announcement as well as the visualization of the sentiment of the tweets on these days.
+* **Python libraries used:** Python, Numpy, Pandas, Seaborn, WordCloud
+* **Input:** Tweets, hastags
+* **Output:** Sentiment
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
