@@ -29,11 +29,10 @@ This project makes use of ***backward stepwise feature selection*** and ***K Fol
 * **Output:** will have stroke or not
 
 # [Project 3: Health Expenditure](https://github.com/MingQiu99/Predicting-Stroke-Based-on-Patient-Lifestyle-and-Health-Information/blob/main/COGS109%20Final%20Project%20report.pdf)
-![alt text](fakurian-design-58Z17lnVS4U-unsplash.jpg)
+![alt text](bermix-studio-Xmgxjy-TzU0-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@fakurian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fakurian Design</a> on <a href="https://unsplash.com/s/photos/brain-anatomy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@bermixstudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bermix Studio</a> on <a href="https://unsplash.com/s/photos/insurance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-
 This project analyzes the relationship between how much is being spent on healthcare (healthcare expenditure) and healthcare coverage and how it changes in certain years, and how the expenditure varies from different regions.
 * **R libraries used:** tidyverse, OCSdata, ggrepel, magick
 * **Input:** Healthcare Spending and Healthcare Coverage
