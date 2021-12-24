@@ -1,6 +1,6 @@
 
 # Ming Qiu
-*A Cognitive Science student at UCSD | Machine Learning specialty | Interested in Data Science and Machine Learning field*
+*A Cognitive Science Instructional Assistant and student at UCSD | Machine Learning specialty | Interested in Data Science and Machine Learning field*
 
 # Education
 * Bachelors of Science (Cognitive Science Machine Learning specialty), *University of California, San Diego*, 2020-2022
@@ -28,7 +28,7 @@ This project makes use of ***backward stepwise feature selection*** and ***K Fol
 * **Input:** Patient Lifestyle and Health Information
 * **Output:** will have stroke or not
 
-# [Project 3: Health Expenditure](https://github.com/MingQiu99/Predicting-Stroke-Based-on-Patient-Lifestyle-and-Health-Information/blob/main/COGS109%20Final%20Project%20report.pdf)
+# [Project 3: Health Expenditure](https://github.com/MingQiu99/Project_Health_Expenditure)
 ![alt text](bermix-studio-Xmgxjy-TzU0-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@bermixstudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bermix Studio</a> on <a href="https://unsplash.com/s/photos/insurance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
