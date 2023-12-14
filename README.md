@@ -1,10 +1,10 @@
 
 # Ming Qiu
-*A Cognitive Science Instructional Assistant and student at UCSD | Machine Learning specialty | Interested in Data Science and Machine Learning field*
+*A CS master student at ASU seeking ML/AI/DS/SWE Intern opportunity | Machine Learning specialty | Interested in Data Science and Machine Learning field*
 
 # Education
+* Masters of Science (Computer Science), *Arizona State University*, 2023-2025
 * Bachelors of Science (Cognitive Science Machine Learning specialty), *University of California, San Diego*, 2020-2022
-* Associate of Science (Cognitive Science), *Glendale Community College*, 2017-2020
 
 # [Project 1: Sentiment Analysis of COVID-19 on Twitter](https://github.com/MingQiu99/SentimentAnalysis-of-COVID19-on-Twitter/blob/main/FinalProject_SentimentAnalysis.ipynb)
 ![alt text](transparent_background.png)
